@@ -1,0 +1,45 @@
+
+body{
+    font-size: 13px;
+    background: hsl(210, 46%, 95%)s;
+}
+
+.bg-violeta{
+   background: hsl(263, 55%, 52%);
+}
+
+.text-description{
+    opacity: .7;
+}
+
+.bg-gris-azul{
+    background: hsl(217, 19%, 35%);
+}
+
+.text-gris-azul{
+    color: hsl(217, 19%, 35%);
+}
+
+.bg-very-dark{
+    background: hsl(219, 29%, 14%);
+}
+
+
+
+.bg-quotation{
+    background-image: url(images/bg-pattern-quotation.svg);
+    background-repeat: no-repeat;
+    background-position: 80% 0;
+}
+
+h1,h2,h3,h4,h5,h6{
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    font-weight: 600;
+}
+
+p{
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    font-weight: 500;
+}
+
+
